@@ -1,0 +1,16 @@
+#profilepic {
+max-width: 20%;
+border-radius: 1em;
+}
+
+nav ul li {
+display: inline-block;
+}
+
+nav ul li a {
+background-color: #ececec;
+padding: 10px;
+border-radius: .5em;
+color: #ffa500;
+
+}
