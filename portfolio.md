@@ -4,7 +4,14 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-Some other projects we've worked on include: this blog, Javascript Koans and Savings Multiplied website.
+Projects:
+ 
+[Savings Multiplied](https://github.com/JaclynPasquale/savings-multiplied)
 
-If you'd like to see these projects you can check me out on Github: 
-[Jaclyn Pasquale Github](https://github.com/JaclynPasquale)
+[Javascript Koans](https://github.com/JaclynPasquale/JavaScript-Koans)
+
+
+Visit my Graphic Design Portfolio at: [jpasquale.com](http://jpasquale.com/)
+
+
+Visit more porjects at: [Jaclyn Pasquale Github](https://github.com/JaclynPasquale)
