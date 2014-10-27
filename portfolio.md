@@ -14,4 +14,4 @@ Projects:
 Visit my Graphic Design Portfolio at: [jpasquale.com](http://jpasquale.com/)
 
 
-Visit more porjects at: [Jaclyn Pasquale Github](https://github.com/JaclynPasquale)
+Visit more projects at: [Jaclyn Pasquale Github](https://github.com/JaclynPasquale)
