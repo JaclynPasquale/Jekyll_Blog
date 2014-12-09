@@ -25,10 +25,10 @@ From Wikipedia: "In computer software, business logic or domain logic is the par
 
 
 This is how the interactions look:
-![MVC pattern](../images/mvc.png)
+![MVC pattern](images/mvc.png)
 
 More Pictures!
-![MVP pattern](../images/mvc2.png)
+![MVP pattern](images/mvc2.png)
 
 
 ### Model View Presenter
