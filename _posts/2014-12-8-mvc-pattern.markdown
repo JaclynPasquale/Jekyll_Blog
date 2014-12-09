@@ -21,6 +21,10 @@ From Wikipedia: "In computer software, business logic or domain logic is the par
 This is how the interactions look:
 ![MVC pattern](../images/mvc.png)
 
+More Pictures!
+![MVP pattern](../images/mvc2.png)
+
+
 ### Model View Presenter
 
 Usually called MVP design pattern.
@@ -31,6 +35,9 @@ For example, when someone clicks the "Save" button, the event handler delegates 
 
 This is how the interactions look:
 ![MVP pattern](../images/mvp.png)
+
+More Pictures!
+![MVP pattern](../images/mvp2.png)
 
 ##### Key Differences Between MVC and MVP Patterns:
 
