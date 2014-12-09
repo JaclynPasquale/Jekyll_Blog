@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ELI5 MVC, MVP & MVVM"
+title:  "ELI5 MVC and MVP "
 date:   2014-12-8 10:56:08
 categories: jekyll update
 ---
@@ -12,11 +12,17 @@ Using a MVC design pattern means splitting different part of your code into diff
 
 The three components are: View is responsible for the UI elements, the Controller responsible for determining which View is displayed in response to any action including when the application loads and the Model is responsible for business behaviors and state management(). All three components interact with each other.
 
+To Review:
+Model: data
+View: what the user sees
+Controller: contains all the necessary logic to connect the model to the view
+
 In MVC, every action in the View correlates with a call to a Controller along with an action. In the web each action involves a call to a URL on the other side of which there is a Controller who responds. Once that Controller has completed its processing, it will return the correct View.
 
 What is business logic/ behaviors?
 
 From Wikipedia: "In computer software, business logic or domain logic is the part of the program that encodes the real-world business rules that determine how data can be created, displayed, stored, and changed. It is contrasted with the remainder of the software which might be concerned with lower-level details of managing a database or displaying the user interface, system infrastructure, or generally connecting various parts of the program."
+
 
 This is how the interactions look:
 ![MVC pattern](../images/mvc.png)
